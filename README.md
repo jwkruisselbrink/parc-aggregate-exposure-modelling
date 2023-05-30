@@ -10,7 +10,7 @@ When you want to contribute to this repository, please request membership.
 
 You can edit the diagram on your local machine by cloning the git repository and editting the diagram file using the standalone draw.io app. Alternatively you can use the online diagrams.net tool for this. For the latter, use the following link:
 
-https://app.diagrams.net/#Hjwkruisselbrink%2Ftest-drawio%2Fdevelop%2Faggregate-exposure-modelling.drawio
+https://app.diagrams.net/#Hjwkruisselbrink%2Fparc-aggregate-exposure-modelling%2Fdevelop%2Faggregate-exposure-modelling.drawio
 
 Note that for the latter solution, you should be granted membership with appropriate rights to edit the diagram.
 
