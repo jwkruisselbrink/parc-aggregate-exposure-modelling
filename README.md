@@ -1,1 +1,5 @@
-# test-drawio
+# PARC - Aggregate exposure modelling
+
+This repository contains diagrams and specifications of the conceptual model developed in PARC project 6.2.1 as part of the functional design for aggregate exposure modelling. The purpose of this conceptual model is to establish a formal consensus model for combining (human) exposure estimates to chemicals from (external) exposure models and deriving the corresponding internal exposures at some internal level. This concensus model can be the basis for harmonization between different (external) exposure modelling tools and for establishing links between various tools. Later on, it may also serve as a basis for development of an ontology for aggregate exposure modelling.
+
+At the present stage, this repository only contains a single conceptual model diagram identifying the relevant entities and relationships. This model diagram is constructed using the established glossary of PARC AD 6.3 as a basis and alignment between the diagram and this glossary should be maintained.

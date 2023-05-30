@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-05-30T05:22:50.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="_CtuCjwsYw5uMmJrByHH" version="21.2.8" type="device">
+<mxfile host="Electron" modified="2023-05-30T19:53:59.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="2yI4ePhO-rDQ6wldfMg9" version="21.2.8" type="device">
   <diagram name="Pagina-1" id="Qnb35X_hfFmvDTuYBCRj">
     <mxGraphModel dx="6099" dy="4128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="1260" y="620" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5XHuWZA4LQ0ceYuqT-mD-6" value="Exposure route" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=4" parent="1" vertex="1">
-          <mxGeometry x="770" y="440" width="120" height="50" as="geometry" />
+          <mxGeometry x="760" y="440" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5XHuWZA4LQ0ceYuqT-mD-8" value="Outer exposure surface" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="870" y="510" width="120" height="40" as="geometry" />
@@ -289,13 +289,13 @@
           <mxGeometry x="1600" y="629.5" width="560" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="CE5s2COzBPPs-qAKDbu1-62" value="XXX" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1600" y="83" width="110" height="50" as="geometry" />
+          <mxGeometry x="1600" y="83" width="110" height="47" as="geometry" />
         </mxCell>
         <mxCell id="CE5s2COzBPPs-qAKDbu1-64" value="Complex/composite entity already defined elsewhere (diplicate)." style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1715" y="93" width="415" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CE5s2COzBPPs-qAKDbu1-65" value="Internal exposure" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1600" y="143" width="110" height="50" as="geometry" />
+          <mxGeometry x="1600" y="143" width="110" height="47" as="geometry" />
         </mxCell>
         <mxCell id="CE5s2COzBPPs-qAKDbu1-66" value="Complex/composite entity." style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1715" y="153" width="415" height="30" as="geometry" />
@@ -322,7 +322,7 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CE5s2COzBPPs-qAKDbu1-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.427;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="5XHuWZA4LQ0ceYuqT-mD-2" target="5XHuWZA4LQ0ceYuqT-mD-40" edge="1">
+        <mxCell id="CE5s2COzBPPs-qAKDbu1-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="5XHuWZA4LQ0ceYuqT-mD-2" target="5XHuWZA4LQ0ceYuqT-mD-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1060" y="655" as="sourcePoint" />
             <mxPoint x="1240" y="730" as="targetPoint" />
@@ -970,11 +970,48 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E_MhMbmyatQcM8iBt9KD-1" value="Bias" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="E_MhMbmyatQcM8iBt9KD-1" value="Bias" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1600" y="200" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E_MhMbmyatQcM8iBt9KD-2" value="Attribute" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E_MhMbmyatQcM8iBt9KD-2" value="Attribute" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1715" y="205" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjCvhxp_7pqwbNDnJ8aL-1" value="JK: This definition does not seem satisfactory for me. I would think that an external exposure may be composed of one or more exposure events that have a certain duration. In the present definition it is the other way around." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="-340" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RjCvhxp_7pqwbNDnJ8aL-2" value="Place discussion comments in a textbox." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="250" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RjCvhxp_7pqwbNDnJ8aL-3" value="Discussion comments." style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1715" y="257" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjCvhxp_7pqwbNDnJ8aL-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1601.5" y="330" as="sourcePoint" />
+            <mxPoint x="1691.5" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjCvhxp_7pqwbNDnJ8aL-5" value="h/q" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="RjCvhxp_7pqwbNDnJ8aL-4" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjCvhxp_7pqwbNDnJ8aL-6" value="Has quality relationship" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1715" y="314" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjCvhxp_7pqwbNDnJ8aL-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1606.5" y="358" as="sourcePoint" />
+            <mxPoint x="1686.5" y="358" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjCvhxp_7pqwbNDnJ8aL-9" value="h/a" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="RjCvhxp_7pqwbNDnJ8aL-8" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjCvhxp_7pqwbNDnJ8aL-10" value="Has attribute relationship" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1715" y="340" width="415" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
