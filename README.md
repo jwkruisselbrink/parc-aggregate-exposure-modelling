@@ -14,7 +14,7 @@ https://app.diagrams.net/#Hjwkruisselbrink%2Fparc-aggregate-exposure-modelling%2
 
 Note that for the latter solution, you should be granted membership with appropriate rights to edit the diagram.
 
-# Conceptual model
+# Conceptual model diagram
 
 ![Conceptual model diagram for aggregate exposure modelling](aggregate-exposure-modelling.drawio.svg)
 
